@@ -1,3 +1,3 @@
-CONSTANT = 4
+CONSTANT = 5
 def add_constant(number):
     return CONSTANT + number
